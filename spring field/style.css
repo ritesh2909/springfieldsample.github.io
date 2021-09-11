@@ -1,0 +1,307 @@
+#main{
+    background-image: url('https://sfoly.com/Assets/BannerImage.jpg');
+    background-size: 1365px 591px;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    /* color: rgb(77, 73, 73); */
+    
+}
+
+nav#nav{
+    background-color: #4433cc!important;
+}
+
+#content{
+    /* margin: 123px; */
+    /* position: absolute;
+    top: 12px; */
+    padding: 123px;
+    color: black;
+    /* margin-top: 12px; */
+}
+#content h1{
+    margin-top: 106px;
+}
+
+#content button{
+    /* padding: 12px; */
+    margin: 58px;
+    /* margin-top: 12px; */
+}
+#headings-content2 h1{
+    text-align: center;
+    
+}
+#cards{
+    padding: 12px;
+    padding-top: 48px;
+    background-color:  #4433cc;
+    margin-top: 30px;
+    padding-bottom: 512px;
+}
+
+#cards-individuals-1{
+    margin: 60px;
+    border: 2px solid black;
+    /* width: 12px; */
+    /* background-color: rgb(207, 9, 247); */
+}
+#cards-individuals-1 img{
+    height: 106px;
+    width: 272px;
+    margin-top: 13px;
+}
+
+#cards-individuals-2{
+    position: absolute;
+    top: 872px;
+    left: 530px;
+    border: 2px solid black;
+}
+#cards-individuals-2 img{
+    height: 106px;
+    width: 272px;
+    margin-top: 13px;
+}
+#cards-individuals-3{
+    position: absolute;
+    top: 872px;
+    left: 990px;
+    border: 2px solid black;
+}
+#cards-individuals-3 img{
+    height: 106px;
+    width: 272px;
+    margin-top: 13px;
+}
+#cards-individuals-4{
+    position: absolute;
+    top: 1373px;
+    left: 298px;
+    border: 2px solid black;
+}
+#cards-individuals-4 img{
+    height: 106px;
+    width: 272px;
+    margin-top: 13px;
+}
+
+
+#cards-individuals-5{
+    position: absolute;
+    top: 1373px;
+    left: 764px;
+    border: 2px solid black;
+    
+}
+#cards-individuals-5 img{
+    height: 106px;
+    width: 272px;
+    margin-top: 13px;
+}
+
+section#first{
+    height: 180vh;
+    width: 100%;
+}
+
+#content3 #content3-data h1{
+    align-items: center;
+    margin: 149px;
+    margin-left: 132px;
+}
+
+#content3 #content3-data p{
+    margin-left: 130px;
+    margin-top: -100px;
+}
+#content3 #content3-data button{
+    margin: 140px;
+    margin-left: 128px;
+}
+
+#content3 #content3-imgs #content3-firstimg{
+    position: absolute;
+    top: 1951px;
+    right: 394px;
+    height: 146px;
+    width: 152px;
+}
+
+#content3 #content3-imgs #content3-secondimg{
+    position: absolute;
+    top: 1951px;
+    right: 132px;
+    height: 146px;
+    width: 152px;
+}
+#content3 #content3-imgs #pone{
+    position: absolute;
+    /* align-items: right; */
+    top: 2120px;
+    right: 392px;
+    
+}
+
+#content3 #content3-imgs #ptwo{
+    position: absolute;
+    top: 2120px;
+    right: 123px;
+}
+
+#content3 #content3-imgs #headone{
+    position: absolute;
+    top: 2156px;
+    right: 413px;
+    color: #4433cc;
+
+}
+#content3 #content3-imgs #headtwo{
+
+        position: absolute;
+        top: 2156px;
+    right: 123px;
+        color: #4433cc;
+}
+#content4{
+    background-color: #4433cc;
+    color: white;
+    padding-bottom: 123px;
+}
+#content4 #content4-data #content4-firstimg{
+    margin: 108px 25px 25px 145px;
+    height: 131px;
+    width: 150px;
+}
+#content4 #content4-data p{
+    margin: 0px;
+    margin-left: 130px;
+    /* padding-right: 5px; */
+}
+#content4 #content4-data h1{
+    margin: 0px;
+    margin-left: 174px;
+}
+
+#content4 #content4-content{
+    /* margin: 0px; */
+    margin-left: 576px;
+    margin-top: -214px;
+}
+#content4 #content4-content p{
+    margin-top: 62px;
+    padding-right: 87px;
+}
+
+#content4 #content4-content button{
+    margin-top: 60px;
+}
+
+#content-end{
+    margin: 105px;
+    margin-top: 155px;
+}
+
+#content-end #content-end-data p{
+    margin-top: 29px;
+}
+
+#content-end #content-end-data button{
+    margin-top: 138px;
+}
+#endimg{
+    position: absolute;
+    float: right;
+    top: 3155px;
+    height: 203px;
+    width: 176px;
+    right: 211px;
+    margin-right: 12px;
+}
+#reviews{
+    margin-top: 123px;
+    background-color: #4433cc;
+    padding-top: 34px;
+    padding-bottom: 60px;
+}
+#revhead{
+    /* align-items: center; */
+    color: white;
+    text-align: center;
+    padding-top: 4px;
+}
+
+#card1{
+    /* margin-top: 34px; */
+    margin: 110px;
+    padding-top: 34px;
+}
+#card2{
+    position: absolute;
+    top: 3838px;
+    right: 540px;
+    padding-top: 34px;
+}
+
+#card3{
+    position: absolute;
+    top: 3838px;
+    right: 111px;
+    padding-top: 34px;
+}
+#reviews button{
+    margin: 30px;
+    margin-left: 592px;
+}
+
+#footer{
+    /* margin: 120px; */
+    text-align: center;
+    word-spacing: 3px;
+}
+#face{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+#tweet{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+#youtube{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+#contact{
+    margin: 62px;
+    margin-left: 35px;
+    
+}
+#contact-data h1{
+    /* margin-top: 14px; */
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#footer{
+    padding-top: 123px;
+    width: 100%;
+    background-color: #4433cc;
+    color: white;
+    padding-bottom: 123px;
+}
+
+#footer-data a{
+    text-decoration: none;
+    color: white;
+}
+#footer-end p{
+    cursor: pointer;
+
+}
